@@ -66,8 +66,10 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  # Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
-  # BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
+  Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
+  BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
+  Zhihu: https://www.zhihu.com/people/zhutianrui || icon-zhihu
+  Luogu: https://www.luogu.com.cn/user/443675 || icon-luogu
 
 # 作者卡片 状态
 author_status:
@@ -975,7 +977,7 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  ali_iconfont_js: https://at.alicdn.com/t/c/font_4819725_qyf80w24rws.js?spm=a313x.manage_type_myprojects.i1.10.585c3a81DCseGB&file=font_4819725_qyf80w24rws.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
   fontawesome: false #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 

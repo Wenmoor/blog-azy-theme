@@ -4,12 +4,13 @@
 
 # Site
 title: 紊莫
-subtitle: ''
+subtitle: 'ZJ OIer'
 description: ''
 keywords:
 author: 紊莫
 language: zh-CN
 timezone: ''
+email: 'wenmo2008@outlook.com'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
