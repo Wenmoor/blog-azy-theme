@@ -970,7 +970,7 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: https://at.alicdn.com/t/c/font_4819725_qyf80w24rws.js?spm=a313x.manage_type_myprojects.i1.10.585c3a81DCseGB&file=font_4819725_qyf80w24rws.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  ali_iconfont_js: https://at.alicdn.com/t/c/font_4819725_94h520u1k1r.js?spm=a313x.manage_type_myprojects.i1.10.585c3a817sv5fP&file=font_4819725_94h520u1k1r.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
   fontawesome: false #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
@@ -1049,21 +1049,21 @@ home_top:
   subTitle: 万物可爱。
   siteText: anheyu.com
   category:
-    - name: 前端
-      path: /categories/前端开发/
+    - name: 算法
+      path: /categories/算法/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
-      icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+      icon: icon-suanfa2
+    - name: 笔记
+      path: /categories/笔记/
       shadow: var(--anzhiyu-shadow-red)
       class: red
-      icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+      icon: anzhiyu-icon-book
+    - name: 游记
+      path: /categories/生活/
       shadow: var(--anzhiyu-shadow-green)
       class: green
-      icon: anzhiyu-icon-book
+      icon: anzhiyu-icon-shoe-prints
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
     enable: false
